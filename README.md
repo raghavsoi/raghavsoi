@@ -29,3 +29,4 @@ Passionate about financial markets, trading strategies, and AI-driven analytics.
 ---
 
 ⚡ **"Master the market, automate the strategy, and let AI do the trading!"** 🚀
+![🚀 Status](https://img.shields.io/badge/Status-Building%20Crypto%20Bots-blue?style=flat-square)
