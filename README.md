@@ -1,8 +1,7 @@
-# Hi there, I'm Raghav! 👋
+# Hi there, I'm Raghav! 👋    ![🚀 Status](https://img.shields.io/badge/Status-Building%20Crypto%20Bots-blue?style=flat-square)
 
 ### 🚀 Crypto Trader | AI Developer | Algorithmic Trading Enthusiast  
 Passionate about financial markets, trading strategies, and AI-driven analytics. I specialize in developing algorithmic trading systems, market analysis, and automation using Python & CCXT.
-![🚀 Status](https://img.shields.io/badge/Status-Building%20Crypto%20Bots-blue?style=flat-square)
 
 ---
 
